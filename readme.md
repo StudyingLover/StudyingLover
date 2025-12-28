@@ -13,10 +13,10 @@
      
 <strong>Hi, I am StudyingLover !👋 </strong>
 
-<strong>I am a junior student majoring in Computer Science and Technology at Xi'an University of Posts and Telecommunications. </strong>
+<strong>I am a senior student majoring in Computer Science and Technology at Xi'an University of Posts and Telecommunications.</strong>
 <strong>I am seeking admission to a master's program in China for the year 2026. </strong>
 
-<strong>我是西安邮电大学计算科学与技术的大三学生。 </strong>
+<strong>我是西安邮电大学计算科学与技术的大四学生。 </strong>
 <strong>我正在申请2026年在中国的硕士研究生入学资格。 </strong>
 
 </pre> 
